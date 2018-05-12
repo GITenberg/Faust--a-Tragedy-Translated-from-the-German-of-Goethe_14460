@@ -1,0 +1,48 @@
+_repo: Faust--a-Tragedy-Translated-from-the-German-of-Goethe_14460
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brooks, Charles Timothy
+    aliases:
+    - Aquidneck
+    - Brooks, C. T. (Charles Timothy)
+    - Brooks, Charles T.
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '5536'
+    url: http://www.gutenberg.org/2009/agents/5536
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Goethe, Johann Wolfgang von
+    aliases:
+    - Von Goethe, Johann Wolfgang
+    - Goethe, J. W. (Johann Wolfgang)
+    birthdate: 1749
+    deathdate: 1832
+    gutenberg_agent_id: '586'
+    url: http://www.gutenberg.org/2009/agents/586
+    wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
+description: See also PG#14591 tr. by Bayard Taylor and Illustrated by Harry Clarke
+gutenberg_bookshelf:
+- Germany
+- Best Books Ever Listings
+- Harvard Classics
+gutenberg_issued: '2004-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- Translations into English'
+- !lcsh 'Legends -- Germany -- Drama'
+- !lcsh 'Magicians -- Drama'
+- !lcsh 'Faust, -approximately 1540 -- Drama'
+- !lcc 'PT'
+title: Faust; a Tragedy, Translated from the German of Goethe
+url: http://www.gutenberg.org/ebooks/14460
