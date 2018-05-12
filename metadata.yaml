@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: See also PG#14591 tr. by Bayard Taylor and Illustrated by Harry Clarke
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14460#Faust--a-Tragedy-Translated-from-the-German-of-Goethe
 gutenberg_bookshelf:
 - Germany
 - Best Books Ever Listings
